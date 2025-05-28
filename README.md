@@ -59,16 +59,22 @@ Results will be shared as the project progresses.
 
 ## Project Structure
 ```
-.
-├── data/                 # Dataset loading and preprocessing
-├── models/               # DANN and related model architectures
-├── notebooks/            # Jupyter/Kaggle notebooks for exploration and experiments
-├── utils/                # Helper scripts and utilities
-├── train.py              # Training script
-├── eval.py               # Evaluation and visualization tools
-├── config.yaml           # Central configuration for parameters
-├── README.md             # Project description and documentation
-└── requirements.txt      # Python dependencies
+project-A/
+├── data/                    # raw & processed data
+│   ├── raw/
+│   ├── processed/
+├── notebooks/              # exploratory analysis
+├── src/
+│   ├── data/               # data loaders, augmentation
+│   ├── models/             # adversarial networks
+│   ├── training/           # training scripts, loss functions
+│   ├── evaluation/         # evaluation metrics, plotting
+├── configs/                # experiment configs (Hydra/YAML)
+├── scripts/                # run scripts (train.py, test.py)
+├── results/                # logs, model checkpoints
+├── requirements.txt
+├── README.md
+└── .gitignore
 ```
 
 ## Kaggle Notebook
