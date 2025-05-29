@@ -92,4 +92,4 @@ The final notebook link will be shared here. Team members are encouraged to uplo
 
 * **Mridul Jain** ([GitHub](https://github.com/Spinachboul))
 * **Kyung Seo Kim** ([GitHub](https://github.com/kkyungseo))
-* \[Add team member names and roles here]
+* **Showrin Rahman**[GitHub](https://github.com/showrin20)
