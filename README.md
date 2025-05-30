@@ -89,7 +89,7 @@ We are actively working on a Kaggle notebook for:
 The final notebook link will be shared here. Team members are encouraged to upload their own notebooks in the `/notebooks/` directory on GitHub, with filenames that include their initials or name.
 
 ## Team
-* **Divyansh Goyal** ([GitHub)(https://github.com/divital-coder))
+* **Divyansh Goyal** ([GitHub](https://github.com/divital-coder))
 * **Mridul Jain** ([GitHub](https://github.com/Spinachboul))
 * **Kyung Seo Kim** ([GitHub](https://github.com/kkyungseo))
 * **Showrin Rahman**[GitHub](https://github.com/showrin20)
