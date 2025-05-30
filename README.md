@@ -92,5 +92,5 @@ The final notebook link will be shared here. Team members are encouraged to uplo
 * **Divyansh Goyal** ([GitHub](https://github.com/divital-coder))
 * **Mridul Jain** ([GitHub](https://github.com/Spinachboul))
 * **Kyung Seo Kim** ([GitHub](https://github.com/kkyungseo))
-* **Showrin Rahman**[GitHub](https://github.com/showrin20)
+* **Showrin Rahman** ([GitHub](https://github.com/showrin20))
 * **Bhavya Soni** ([GitHub](https://github.com/zGamingTechz))
